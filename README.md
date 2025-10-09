@@ -6,7 +6,7 @@ A collection of computational and observational projects conducted during my und
 
 ## Projects Overview
 
-### 1. **[Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation](https://github.com/mat-3r/Research-Portfolio/blob/4c9dc5b719fcb0423f2367773ef9b547c3fe8b59/Foucault_Pendulum_Model/Model%20Pendulum.pdf))**
+### 1. **[Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation](https://github.com/mat-3r/Research-Portfolio/blob/4c9dc5b719fcb0423f2367773ef9b547c3fe8b59/Foucault_Pendulum_Model/Model%20Pendulum.pdf)**
 
 - **Objective:** Demonstrate Earth's rotation through the numerical modeling of a Foucault pendulum.
 - **Methods Used:** 4th Order Runge-Kutta (RK4) method, Python, numerical integration.
