@@ -6,7 +6,7 @@ A collection of computational and observational projects conducted during my und
 
 ## Projects Overview
 
-### 1. **Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation**
+### 1. **[Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation](https://github.com/mat-3r/Research-Portfolio/Foucault_Pendulum_Model/Model Pendulum.pdf)**
 
 - **Objective:** Demonstrate Earth's rotation through the numerical modeling of a Foucault pendulum.
 - **Methods Used:** 4th Order Runge-Kutta (RK4) method, Python, numerical integration.
@@ -18,7 +18,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 2. **Photometric Analysis of GALEX J082053.6+000843**
+### 2. **[Photometric Analysis of GALEX J082053.6+000843](https://github.com/mat-3r/Research-Portfolio/sdB+low-mass/final project.ipynb)**
 
 - **Objective:** Analyze an eclipsing binary system composed of an sdB primary and a brown dwarf companion.
 - **Methods Used:** AstroImageJ, multi-aperture photometry, Lomb-Scargle periodogram, Python.
@@ -27,5 +27,18 @@ A collection of computational and observational projects conducted during my und
   - Light curve modeling captured reflection effects due to tidal locking.
   - Comparison with MUCHFUSS project benchmarks showed consistency.
 - **Outcome:** System modeling yielded a ~3.03% uncertainty and reinforced models of irradiated low-mass companions in short period sdB binaries.
+
+---
+
+### 3. **[Decoding Dark Matter's Secrets Through Galactic Mergers](https://github.com/mat-3r/astro400B/ResearchAssignments/ResearchAssignment7/TORRES_MASTR400B_Final.pdf)**
+
+- **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger by comparing the merged halo’s density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these models describe the post merger structure.
+- **Methods Used:** N-body simulations, Hernquist and NFW analytical models, R200 computation from critical density, Python, radial density binning, Center of Mass.
+- **Key Results:**
+  - The NFW profile is close to the simulated density distribution, even at larger radii.
+  - A well defined boundary of R200 = 150.7789 kpc was computed for the remnant halo.
+  - The inner regions remained dense and stable, while the outer regions was reshaped by the redistribution.
+- **Outcome:** Supports the CDM prediction that Dark Matter halos follow a universal density profile even after major mergers. These results move forward our overall understanding of galaxy evolution, emphasizing the vital role of the NFW model in accurately representing post-merger halo structures. It also demonstrates how structural changes during mergers provide the foundation for decoding Dark Matter’s true nature.
+
 
 ---
