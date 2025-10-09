@@ -6,7 +6,7 @@ A collection of computational and observational projects conducted during my und
 
 ## Projects Overview
 
-### 1. **[Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation](https://github.com/mat-3r/Research-Portfolio/Foucault_Pendulum_Model/Model Pendulum.pdf)**
+### 1. **[Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation](https://github.com/mat-3r/Research-Portfolio/blob/4c9dc5b719fcb0423f2367773ef9b547c3fe8b59/Foucault_Pendulum_Model/Model%20Pendulum.pdf))**
 
 - **Objective:** Demonstrate Earth's rotation through the numerical modeling of a Foucault pendulum.
 - **Methods Used:** 4th Order Runge-Kutta (RK4) method, Python, numerical integration.
@@ -18,7 +18,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 2. **[Photometric Analysis of GALEX J082053.6+000843](https://github.com/mat-3r/Research-Portfolio/sdB+low-mass/final project.ipynb)**
+### 2. **[Photometric Analysis of GALEX J082053.6+000843](https://github.com/mat-3r/Research-Portfolio/blob/1f85039934bf42449d8ab89734ef28010b577059/sdB%2Blow-mass/final%20project.ipynb)**
 
 - **Objective:** Analyze an eclipsing binary system composed of an sdB primary and a brown dwarf companion.
 - **Methods Used:** AstroImageJ, multi-aperture photometry, Lomb-Scargle periodogram, Python.
