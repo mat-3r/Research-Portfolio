@@ -30,7 +30,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 3. **[Decoding Dark Matter's Secrets Through Galactic Mergers](https://github.com/mat-3r/astro400B/ResearchAssignments/ResearchAssignment7/TORRES_MASTR400B_Final.pdf)**
+### 3. **[Decoding Dark Matter's Secrets Through Galactic Mergers](https://github.com/mat-3r/astr400B/blob/fdb7a335e1a65865c96450833f3f5e2c2459bed9/ResearchAssignments/ResearchAssignment7/TORRES_MASTR400B_Final.pdf))**
 
 - **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger by comparing the merged halo’s density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these models describe the post merger structure.
 - **Methods Used:** N-body simulations, Hernquist and NFW analytical models, R200 computation from critical density, Python, radial density binning, Center of Mass.
