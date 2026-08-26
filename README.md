@@ -8,7 +8,7 @@ A collection of computational and observational projects conducted during my und
 
 ## Projects Overview
 
-### 1. **[Decoding Dark Matter's Secrets Through Galactic Mergers]**
+### 1. **Decoding Dark Matter's Secrets Through Galactic Mergers**
 [Code and Report](https://github.com/mat-3r/astr400B/tree/main/ResearchAssignments/ResearchAssignment7)
 
 - **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger by comparing the merged halo’s density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these models describe the post merger structure.
@@ -21,7 +21,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 2. **[Photometric Analysis of GALEX J082053.6+000843]**
+### 2. **Photometric Analysis of GALEX J082053.6+000843**
 [Notebook](https://github.com/mat-3r/Research-Portfolio/blob/main/sdb-low-mass/sdb_photometry.ipynb)
 
 - **Objective:** Analyze an eclipsing binary system composed of an sdB primary and a brown dwarf companion.
@@ -34,7 +34,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 3. **[Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation]**
+### 3. **Model of Foucault Pendulum: Unlocking the Mysteries of Earth’s Rotation**
 [Report](https://github.com/mat-3r/Research-Portfolio/blob/main/foucault-pendulum-rk4/model-pendulum.pdf)
 
 - **Objective:** Demonstrate Earth's rotation through the numerical modeling of a Foucault pendulum.
