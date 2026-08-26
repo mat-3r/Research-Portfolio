@@ -9,7 +9,7 @@ A collection of computational and observational projects conducted during my und
 ## Projects Overview
 
 ### 1. **[Decoding Dark Matter's Secrets Through Galactic Mergers]**
-[Code and report ->](https://github.com/mat-3r/astr400B/tree/main/ResearchAssignments/ResearchAssignment7)
+[Code and Report](https://github.com/mat-3r/astr400B/tree/main/ResearchAssignments/ResearchAssignment7)
 
 - **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger by comparing the merged halo’s density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these models describe the post merger structure.
 - **Methods Used:** N-body simulations, Hernquist and NFW analytical models, R200 computation from critical density, Python, radial density binning, Center of Mass.
@@ -22,7 +22,7 @@ A collection of computational and observational projects conducted during my und
 ---
 
 ### 2. **[Photometric Analysis of GALEX J082053.6+000843]**
-[Notebook ->](https://github.com/mat-3r/Research-Portfolio/blob/main/sdb-low-mass/sdb_photometry.ipynb)
+[Notebook](https://github.com/mat-3r/Research-Portfolio/blob/main/sdb-low-mass/sdb_photometry.ipynb)
 
 - **Objective:** Analyze an eclipsing binary system composed of an sdB primary and a brown dwarf companion.
 - **Methods Used:** AstroImageJ, multi-aperture photometry, Lomb-Scargle periodogram, Python.
