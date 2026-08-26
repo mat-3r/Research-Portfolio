@@ -18,7 +18,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 2. **[Photometric Analysis of GALEX J082053.6+000843](https://github.com/mat-3r/Research-Portfolio/blob/main/sdB%2Blow-mass/sdb_photometry.ipynb)**
+### 2. **[Photometric Analysis of GALEX J082053.6+000843](https://github.com/mat-3r/Research-Portfolio/blob/main/sdb-low-mass/sdb_photometry.ipynb)**
 
 - **Objective:** Analyze an eclipsing binary system composed of an sdB primary and a brown dwarf companion.
 - **Methods Used:** AstroImageJ, multi-aperture photometry, Lomb-Scargle periodogram, Python.
