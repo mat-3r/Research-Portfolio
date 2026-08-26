@@ -18,7 +18,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 2. **[Photometric Analysis of GALEX J082053.6+000843](https://github.com/mat-3r/Research-Portfolio/blob/1f85039934bf42449d8ab89734ef28010b577059/sdB%2Blow-mass/final%20project.ipynb)**
+### 2. **[Photometric Analysis of GALEX J082053.6+000843](https://github.com/mat-3r/Research-Portfolio/blob/main/sdB%2Blow-mass/sdb_photometry.ipynb)**
 
 - **Objective:** Analyze an eclipsing binary system composed of an sdB primary and a brown dwarf companion.
 - **Methods Used:** AstroImageJ, multi-aperture photometry, Lomb-Scargle periodogram, Python.
@@ -30,7 +30,7 @@ A collection of computational and observational projects conducted during my und
 
 ---
 
-### 3. **[Decoding Dark Matter's Secrets Through Galactic Mergers](https://github.com/mat-3r/astr400B/blob/fdb7a335e1a65865c96450833f3f5e2c2459bed9/ResearchAssignments/ResearchAssignment7/TORRES_MASTR400B_Final.pdf)**
+### 3. **[Decoding Dark Matter's Secrets Through Galactic Mergers](https://github.com/mat-3r/astr400B/tree/main/ResearchAssignments/ResearchAssignment7)**
 
 - **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger by comparing the merged halo’s density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these models describe the post merger structure.
 - **Methods Used:** N-body simulations, Hernquist and NFW analytical models, R200 computation from critical density, Python, radial density binning, Center of Mass.
