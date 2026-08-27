@@ -11,9 +11,9 @@ A collection of computational and observational projects conducted during my und
 ### 1. **Decoding Dark Matter's Secrets Through Galactic Mergers**
 [Code and Report](https://github.com/mat-3r/astr400B/tree/main/ResearchAssignments/ResearchAssignment7)
 
-- **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger between two galaxies, comparing the merged halo's density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these analytic models represent Dark Matter behavior during major mergers.
+- **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger between two galaxies, comparing the merged halo's density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these analytic models represent Dark Matter behavior.
   
-- **Methods:** N-body simulation data (Milky Way–M31, snapshot 779, ~11.1 Gyr), Hernquist and NFW analytical models, Center Of Mass determination, radial density binning, R200 computation from critical density. Python.
+- **Methods:** N-body simulation data (Milky Way–M31, snapshot 779, ~11.1 Gyr), Hernquist and NFW analytical models, Center of Mass determination, radial density binning, R200 computation from critical density. Python.
   
 - **Results:**
   - The NFW profile closely tracks the simulated density distribution, holding even at large radii.
