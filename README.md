@@ -11,7 +11,7 @@ A collection of computational and observational projects conducted during my und
 ### 1. **Decoding Dark Matter's Secrets Through Galactic Mergers**
 [Code and Report](https://github.com/mat-3r/astr400B/tree/main/ResearchAssignments/ResearchAssignment7)
 
-- **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger between two galaxies, comparing the merged halo's density profile to Navarro-Frenk-White and Hernquist Profiles to evaluate how accurately these analytic models represent Dark Matter behavior.
+- **Objective:** Analyze the final remnant structural evolution of the Dark Matter halo during a major merger between two galaxies, comparing the merged halo's density profile to Navarro-Frenk-White and Hernquist Profiles to investigate how accurately these analytic models represent Dark Matter behavior.
   
 - **Methods:** N-body simulation data (Milky Way–M31, snapshot 779, ~11.1 Gyr), Hernquist and NFW analytical models, Center of Mass determination, radial density binning, R200 computation from critical density. Python.
   
@@ -29,13 +29,18 @@ A collection of computational and observational projects conducted during my und
 ### 2. **Photometric Analysis of GALEX J082053.6+000843**
 [Notebook](https://github.com/mat-3r/Research-Portfolio/blob/main/sdb-low-mass/sdb_photometry.ipynb)
 
-- **Objective:** Analyze an eclipsing binary system composed of an sdB primary and a brown dwarf companion.
-- **Methods Used:** AstroImageJ, multi-aperture photometry, Lomb-Scargle periodogram, Python.
-- **Key Results:**
-  - Orbital period determined via time-series analysis.
-  - Light curve modeling captured reflection effects due to tidal locking.
-  - Comparison with MUCHFUSS project benchmarks showed consistency.
-- **Outcome:** System modeling yielded a ~3.03% uncertainty and reinforced models of irradiated low-mass companions in short period sdB binaries.
+- **Objective:** Determine the orbital period and analyze the structure of the eclipsing binary GALEX J082053.6+000843, a subdwarf B primary with a tidally locked brown dwarf companion, through reflection effects in the light curve.
+  
+- **Methods:** Reduction of 269 science exposures (80-second exposures, 23 Feb 2025) in AstroImageJ with bias subtraction and flat-field correction; multi-aperture differential photometry against 8 calibration stars; phase folding; Lomb-Scargle periodogram analysis. Python (pandas).
+  
+- **Results:**
+  - Obtained an orbital period of 8046.17 s (0.09312 days), a 3.03% deviation from the theoretical value of 0.09603 days (Geier et al. 2011).
+  - Identified three distinct features in the phase-folded light curve: the primary eclipse, the irradiated face of the companion, and the cool face transiting the primary.
+  - Light curves generated independently in AstroImageJ and Python produced consistent results, confirming the reliability of the reduction.
+    
+- **Outcome:** Confirms the brown dwarf companion and reinforces models of irradiated low-mass companions in close sdB binaries. Residual discrepancy attributable to photometric noise and possible reduction error. A known dead column in the CCD detector was assessed as minimal.
+
+*Contains: Jupyter notebook with full reduction and analysis.*
 
 ---
 
