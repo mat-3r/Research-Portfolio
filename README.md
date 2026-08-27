@@ -1,6 +1,6 @@
 # Undergraduate Research Portfolio: Physics & Astronomy
 
-A collection of computational and observational projects conducted during my undergraduate studies in astronomy at the University of Arizona, with minors in mathematics and physics. This repository showcases my experience with data analysis, numerical modeling, and astrophysical systems, emphasizing both theoretical foundations and practical coding implementations. Work spans N-body simulation analysis, photometric data reduction, and numerical modeling, including approximately 25 hours of observing on the Kuiper 61-inch telescope at Steward Observatory.
+A collection of computational and observational projects conducted during my undergraduate studies in astronomy at the University of Arizona, with minors in mathematics. This repository showcases my experience with data analysis, numerical modeling, and astrophysical systems, emphasizing both theoretical foundations and practical coding implementations. Work spans N-body simulation analysis, photometric data reduction, and numerical modeling, including approximately 25 hours of observing on the Kuiper 61-inch telescope at Steward Observatory.
 
 **Tools:** Python (NumPy, SciPy, Matplotlib, AstroPy), AstroImageJ, Jupyter, Git, Latex
 
