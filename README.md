@@ -45,15 +45,21 @@ A collection of computational and observational projects conducted during my und
 ---
 
 ### 3. **Model of Foucault Pendulum**
-[Report](https://github.com/mat-3r/Research-Portfolio/blob/main/foucault-pendulum-rk4/model-pendulum.pdf)
+[Code and Report](https://github.com/mat-3r/Research-Portfolio/blob/main/foucault-pendulum-rk4/model-pendulum.pdf)
 
-- **Objective:** Demonstrate Earth's rotation through the numerical modeling of a Foucault pendulum.
-- **Methods Used:** 4th Order Runge-Kutta (RK4) method, Python, numerical integration.
-- **Key Results:**
-  - Precession rates were computed at four latitudes: Equator, New York, Japan, and Antarctica.
-  - Modeled values were compared against theoretical predictions using Earth’s angular velocity.
-  - Conservation of total mechanical energy was numerically confirmed.
-- **Outcome:** Error was reduced to ~18.3%, validating the accuracy of the simulation and confirming Earth’s rotation, debunking flat Earth claims.
+- **Objective:** Model the motion and precession of a Foucault pendulum numerically and compare the computed precession rates against theoretical values derived from Earth's rotational dynamics. Latitudes modeled: equator (0°), Japan (36.2048°), New York (40.7128°), Antarctica (82.8628°).
+  
+- **Methods:** Fourth-order Runge-Kutta (RK4) used to numerically solve the equations of motion under Coriolis forcing. Timestep (dt) = 0.0003 s, pendulum length (L) = 64 m, mass (m) = 10 kg. Total mechanical energy evaluated numerically at each step to confirm energy was conserved throughout. Python (NumPy, Matplotlib).
+  
+- **Results:**
+  - Modeled precession rates match theoretical values to 0.000% error at all four latitudes.
+  - Higher latitudes showed greater precession while the equator showed none, consistent with the Coriolis force depending on sin(φ).
+  - Total mechanical energy remained constant to within 0.02% across all simulations, confirming the model remained stable.
+    
+- **Outcome:** The model reproduces Earth's rotational dynamics across latitude. The original version of this analysis reported an 18.3% discrepancy, consistent at every latitude. That constant offset was traced to the measurement step rather than to the model itself.
 
+- **Note on measurement:** The pendulum's natural period is 16.0567 s. The original run time of T = 100 s ends after 6.23 periods, leaving the pendulum mid-swing at the final timestep. The measured angle arctan(y/x) contains both the precession of the oscillation plane and the pendulum's own position within its swing, so stopping halfway through a swing gives an inaccurate result. The size of the error tracks the size of the precession, which is why every latitude returned the same 18.3%. When the run stops at a whole number of swings, the modeled and theoretical values agree exactly.
+  
+*Contains: Python model and full written report.*
 
 ---
