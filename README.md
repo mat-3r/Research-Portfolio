@@ -45,7 +45,7 @@ A collection of computational and observational projects conducted during my und
 ---
 
 ### 3. **Model of Foucault Pendulum**
-[Code and Report](https://github.com/mat-3r/Research-Portfolio/blob/main/foucault-pendulum-rk4/model-pendulum.pdf)
+[Code and Report](https://github.com/mat-3r/Research-Portfolio/tree/main/foucault-pendulum-rk4)
 
 - **Objective:** Model the motion and precession of a Foucault pendulum numerically and compare the computed precession rates against theoretical values derived from Earth's rotational dynamics. Latitudes modeled: equator (0°), Japan (36.2048°), New York (40.7128°), Antarctica (82.8628°).
   
